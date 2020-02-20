@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<classeEcole>
+    <intitule>sl1</intitule>
+    <eleves>
+        <eleve vieillesse="16">
+            <nom>Bla</nom>
+            <note>Très bien</note>
+            <secondPrenoms></secondPrenoms>
+        </eleve>
+        <eleve vieillesse="15">
+            <nom>Pouffsouffle</nom>
+            <note>Insuffisant</note>
+            <secondPrenoms></secondPrenoms>
+        </eleve>
+        <eleve vieillesse="14">
+            <nom>Rout</nom>
+            <note>Suffisant</note>
+            <secondPrenoms>Jhon Kevin</secondPrenoms>
+        </eleve>
+    </eleves>
+</classeEcole>
